@@ -1,4 +1,4 @@
-@extends('component.sidebar')
+@extends('components.sidebar')
 
 @section('content')
 
